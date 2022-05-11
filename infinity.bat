@@ -1,0 +1,37 @@
+::[Bat To Exe Converter]
+::
+::YAwzoRdxOk+EWAjk
+::fBw5plQjdCyDJGyX8VAjFBBRWg2MAFuzBaEJ+u3o0+OJpEQTXfYmNobY1dQ=
+::YAwzuBVtJxjWCl3EqQJgSA==
+::ZR4luwNxJguZRRnk
+::Yhs/ulQjdF+5
+::cxAkpRVqdFKZSjk=
+::cBs/ulQjdF+5
+::ZR41oxFsdFKZSDk=
+::eBoioBt6dFKZSDk=
+::cRo6pxp7LAbNWATEpCI=
+::egkzugNsPRvcWATEpCI=
+::dAsiuh18IRvcCxnZtBJQ
+::cRYluBh/LU+EWAnk
+::YxY4rhs+aU+IeA==
+::cxY6rQJ7JhzQF1fEqQJhZksaHErSXA==
+::ZQ05rAF9IBncCkqN+0xwdVsFAlTMbCXqZg==
+::ZQ05rAF9IAHYFVzEqQIZJh1dQg2WJSuPJ5Zc2Pr04vqTsS0=
+::eg0/rx1wNQPfEVWB+kM9LVsJDC2sGkKUL4Elps3Dyoo=
+::fBEirQZwNQPfEVWB+kM9LVsJDA2MOmK0D6EFpu3j6oo=
+::cRolqwZ3JBvQF1fEqQIZJh1dQg2WJSuPJ5Zc2Pr04vqTsS0=
+::dhA7uBVwLU+EWHGL4w8kJ1tAWRCNLmK7CqZ8
+::YQ03rBFzNR3SWATE3E0nZQ9bDBCXKGSoD7QQ+4g=
+::dhAmsQZ3MwfNWATE100gMQldSwyWfCO5T/VOuLqqorjX8B9dfO0oNZvUmqCbNO8B40ToZtht93ZW2NkFCxNMbVK5axwxu3hHsirl
+::ZQ0/vhVqMQ3MEVWAtB9wSA==
+::Zg8zqx1/OA3MEVWAtB9wSA==
+::dhA7pRFwIByZRRnk
+::Zh4grVQjdCyDJGyX8VAjFBBRWg2MAE+1BaAR7ebv/Naqo0EKVfA6RIbV3L2AKfQKpED8cPY=
+::YB416Ek+ZW8=
+::
+::
+::978f952a14a936cc963da21a135fa983
+@echo off
+cd %USERPROFILE%
+cd Desktop
+infinity.exe
